@@ -8,11 +8,9 @@
     "start": "parcel",
     "build": "parcel build"
   },
-  "browserslist": {
-    "> 0.5%, last 2 versions, Firefox ESR, not dead"
-  },
   "license": "ISC",
   "devDependencies": {
-    "parcel": "^2.11.0"
+    "parcel": "^2.11.0",
+    "sharp": "^0.31.3"
   }
-}}
+}
